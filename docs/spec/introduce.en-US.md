@@ -44,7 +44,7 @@ We supply a series of design principles, practical patterns and high quality des
 - [Didi](http://www.xiaojukeji.com/)
 - [Eleme](https://www.ele.me/)
 
-> If your company or products use Ant Design, welcome to click [here](https://github.com/ant-design/ant-design/issues/477) to leave a message.
+> If your company or products use Ant Design, you can let us know [here](https://github.com/ant-design/ant-design/issues/477).
 
 ## How to Contribute
 
